@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ColegioZona/static/css/main.f855e6bc.css",
+    "main.js": "/ColegioZona/static/js/main.0bc2067d.js",
+    "static/js/787.aba0615b.chunk.js": "/ColegioZona/static/js/787.aba0615b.chunk.js",
+    "static/media/logo.svg": "/ColegioZona/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ColegioZona/index.html",
+    "main.f855e6bc.css.map": "/ColegioZona/static/css/main.f855e6bc.css.map",
+    "main.0bc2067d.js.map": "/ColegioZona/static/js/main.0bc2067d.js.map",
+    "787.aba0615b.chunk.js.map": "/ColegioZona/static/js/787.aba0615b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0bc2067d.js"
+  ]
+}
